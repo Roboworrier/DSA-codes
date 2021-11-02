@@ -90,7 +90,7 @@ class LinkedList:
         self.head = None
         for data in data_list:
             self.insert_at_end(data)
-
+#To create your own linked - list then please replace the fruit names with your desrised data elements.
 
 if __name__ == '__main__':
     ll = LinkedList()
